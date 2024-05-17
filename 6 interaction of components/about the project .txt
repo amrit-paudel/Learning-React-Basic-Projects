@@ -1,0 +1,7 @@
+Here we will learn how components can interact with one another 
+
+How data is passed form one component to another component
+
+How that data is received
+
+Also we will see how destructuring makes things simpler

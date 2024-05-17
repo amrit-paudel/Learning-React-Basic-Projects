@@ -1,0 +1,14 @@
+here we have shown the use of Composition to make 
+a simple introduction about a person.
+Now the thing about component is that we could always
+easily modify our app. We can very easily add or remove any 
+components, whenever we want.
+ 
+W H A T    Y O U   L E A R N 
+
+1) advantages of using components.
+2) data flow through props
+3) functional components
+4) how functional components behaves just like functions
+5) easy handling of the functional components
+6) destructuring of objects

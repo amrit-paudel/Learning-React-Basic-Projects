@@ -1,0 +1,15 @@
+Here we will learn how the state changes based on the 
+activities and events performed by the user
+
+also we will have better understanding of the setState ( ) 
+
+//
+Also we will learn about the shallow merge and deep merge
+
+Shallow merge nature of the react's this.setState( ) method
+Alternatives to shallow Merge problem...
+
+// here we will use another version of the set state that will accept a function
+that will take previous state and current props as the arguements
+
+

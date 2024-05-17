@@ -1,0 +1,7 @@
+when we need to use same state in two or more components
+that we lift up that state to their's parent component
+and pass the state as an props to those components.
+
+--->  us of boolean value inside state, super useful
+---> nice use of events
+---> use of conditional component rendering nicely.

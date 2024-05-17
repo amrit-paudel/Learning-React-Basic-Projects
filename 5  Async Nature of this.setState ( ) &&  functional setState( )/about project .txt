@@ -1,0 +1,6 @@
+here we will learn about the async Nature of the this.setState( ) 
+
+--> So we learn a new varient of set state
+---> here we use function along inside setState to prevent
+async nature of setState.
+

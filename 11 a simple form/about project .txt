@@ -1,0 +1,7 @@
+includes form
+includes state
+---> use of a boolean inside state for conditional
+     rendering of the component. NEW CONCEPT
+
+---> here the component looks crowded and messy
+     try breaking down in to others component

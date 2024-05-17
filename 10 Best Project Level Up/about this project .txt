@@ -1,0 +1,16 @@
+Here first of all we will take a number from a user
+in one component and pass that number to another component.
+Than in another component we will take another number
+from user and increase that with the number passed from the 
+previous component as props
+
+
+---> use of more than one component 
+---> i.e one component calling another
+---> use of state and props
+---> use of setState
+---> Use of functional setState() 
+---> truthy and falsy values concept
+---> Conditional rendering // most important one.
+     i.e when to render and when not to render our component is 
+     the crucial to any developer.

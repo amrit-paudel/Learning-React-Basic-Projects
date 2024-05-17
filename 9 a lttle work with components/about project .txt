@@ -1,0 +1,14 @@
+
+Here we are passing various information of students
+and displaying them. On doing so we make two components
+one to display introduction and another to display academics 
+related information.
+
+
+---> destructuring makes code simpler and easy to read
+---> passing data as props is crucial
+---> try making components as short as possible
+---> try making multiple compponents
+---> A components is nothing but a function that takes 
+     props and returns us UI, so make components when we 
+     have to use particular type of code again and again.

@@ -1,0 +1,6 @@
+giving keys to each element got from any type of array or list
+is super important
+
+key can be anything like name , string, number
+
+just need to be unique
